@@ -1,0 +1,6 @@
+E:\STUDY_CS\ThreadTest\Test1\bin\Debug\Test1.exe.config
+E:\STUDY_CS\ThreadTest\Test1\bin\Debug\Test1.exe
+E:\STUDY_CS\ThreadTest\Test1\bin\Debug\Test1.pdb
+E:\STUDY_CS\ThreadTest\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+E:\STUDY_CS\ThreadTest\Test1\obj\Debug\Test1.exe
+E:\STUDY_CS\ThreadTest\Test1\obj\Debug\Test1.pdb
